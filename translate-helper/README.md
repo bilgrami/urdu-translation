@@ -10,8 +10,10 @@ Given a word list in csv format, returns translations in Excel format. Though th
 ### System requirements
 **Python version**: 	3.6.1+
 
-**Python modules**: 
+**Third Party Python modules**: 
 - googletrans
+- pandas
+
 
 Execute "run_first.bat" file to install dependencies
 
