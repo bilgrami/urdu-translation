@@ -36,8 +36,7 @@ Review "settings.json" file. Below are list of parameters
 | output_excel_file                  	| Path to output result file in Excel format.   Excel file columns are Word,Category,GoogleTranslation,BingTranslation                                                                                                                                     	| data\\output_data.xlsx     	| string    	|
 
 ### 2) Define word list
-Word list is contained in file as defined in "word_list_file" parameter inside settings file. Default value is 
-data\input_data.csv
+Define word list in a CSV file. The file path is specified in "word_list_file" parameter from settings.json file. Default value is "data\input_data_small.csv"
 
 ### 3) Run
 python translate.py
