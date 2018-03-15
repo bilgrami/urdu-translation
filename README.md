@@ -25,10 +25,10 @@ Execute "run_first.bat" file to install dependencies
 ## Usage
 
 ### 1) Review Parameter Settings
-Review "settings.json" file
+Review "settings.json" file. Below are list of parameters
+
 | Parameter Name                     	| Description                                                                                                                                                                                                                                              	| Default Value              	| Data Type 	|
-| --- 									| --- 																																																														| --- 							| --- 			|
-|------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------	|-----------	|
+|:------------------------------------	| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	| :----------------------------	| :-----------	|
 | source_language                    	|  The source language code of the word list. Supported language code, generally consisting of its ISO 639-1 identifier. (E.g. 'en', 'ja'). In certain cases, BCP-47 codes including language + region identifiers are returned (e.g. 'zh-TW' and 'zh-CH') 	| en                         	| string    	|
 | target_language                    	| The target language code for the results. Supported language code, generally consisting of its ISO 639-1 identifier. (E.g. 'en', 'ja'). In certain cases, BCP-47 codes including language + region identifiers can be used (e.g. 'zh-TW' and 'zh-CH')    	| ur                         	| string    	|
 | microsoft_translator_client_secret 	| The Microsoft API Translator key. For more information, read this https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-info-overview                                                                                          	|                            	| string    	|
