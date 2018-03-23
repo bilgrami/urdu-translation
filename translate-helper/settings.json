@@ -1,7 +1,21 @@
 {  
-   "source_language":"en",
-   "target_language":"ur",
-   "microsoft_translator_client_secret":"<enter key here>",
-   "word_list_file":"data\\input_data_small.csv",
-   "output_excel_file":"data\\output_data.xlsx"
+   "source_language" : "en",
+   "target_language" : "ur",
+   "word_list_file" : "data\\input_data_small.csv",
+   "output_excel_file" : "data\\output_data.xlsx",
+   "translators" : [
+      {
+            "name": "Microsoft Bing Translator",
+            "module_name" : "bing_translator",
+            "class_name" : "BingTranslatorHelper",
+            "microsoft_translator_client_secret" : "",
+			"enabled" : true
+      },
+      {
+            "name" : "Google Translator",
+            "module_name" : "google_translator",
+            "class_name" : "GoogleTranslatorHelper",
+			"enabled" : true
+      }
+      ]
 }
