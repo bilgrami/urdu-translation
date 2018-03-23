@@ -1,5 +1,5 @@
 # translate-helper
-Given a word list in CSV format, returns translations in Excel (xls) format. The tool can be used to translate from/to any language, the focus is especially on Indic languages (especially Urdu).
+Given a word list in CSV format, returns translations in Excel (xls) format. The tool can be used to translate from/to any language, however our focus is on Indic languages (especially Urdu).
 
 ## Translation sources (Current)
 1. Google Translator
