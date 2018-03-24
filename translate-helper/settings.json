@@ -2,14 +2,15 @@
    "source_language" : "en",
    "target_language" : "ur",
    "word_list_file" : "data\\input_data_small.csv",
-   "output_excel_file" : "data\\output_data.xlsx",
+   "output_excel_file" : "data\\output_data_small.xls",
+   "required_packages": ["googletrans", "pandas","openpyxl"],
    "translators" : [
       {
             "name": "Microsoft Bing Translator",
             "module_name" : "bing_translator",
             "class_name" : "BingTranslatorHelper",
             "microsoft_translator_client_secret" : "",
-            "enabled" : true
+            "enabled" : false
       },
       {
             "name" : "Google Translator",

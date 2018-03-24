@@ -2,11 +2,10 @@
 import pandas as pd
 import requests
 import settings
-import lib 
 from pydoc import locate
 import logging
 import logging.config
-
+import importlib
 
 _JSON_SETTINGS_FILE = 'settings.json'
 _CHARACTOR_ENCODING = "utf-8"
@@ -17,6 +16,15 @@ class TranslateHelper(object):
   target_language = ''
   translators = []
   
+  def checkVersion(self, packages_to_check):
+    
+    for package in packages_to_check:
+      version = importlib.util.find_spec(package)
+      if not version:
+        logging.error (("Missing package:", package))
+        return False
+    return True
+    
   def __init__(self, source_language, target_language, translator_settings):
     self.source_language = source_language
     self.target_language = target_language
@@ -44,7 +52,8 @@ class TranslateHelper(object):
 
     
 def save_to_excel(df, file_name):
-  writer = pd.ExcelWriter(file_name)
+  engine = 'openpyxl'
+  writer = pd.ExcelWriter(file_name, engine)
   df.to_excel(writer,'Sheet1')
 
 def save_to_csv(df, file_name):
@@ -68,16 +77,19 @@ def main():
     target_language = translator_settings.target_language,
     translator_settings = translator_settings.translators
   )
-  translate_helper.SetupTranslators()
-  words, category = read_csv(translator_settings.word_list_file)
-  logging.info ("Word list loaded")
-  words_lower = [x.lower() for x in words]  
-  df1 = translate_helper.GetTranslation(words, category)
-  df2 = translate_helper.GetTranslation(words_lower, category)
-  logging.info ("Translation retrieved successfully")
-  df3 = pd.concat([df1, df2]).sort_index()
-  save_to_excel(df3, translator_settings.output_excel_file)
-  logging.info ("Output file created")
+  if translate_helper.checkVersion(translator_settings.required_packages):
+    translate_helper.SetupTranslators()
+    words, category = read_csv(translator_settings.word_list_file)
+    logging.info ("Word list loaded")
+    words_lower = [x.lower() for x in words]  
+    df1 = translate_helper.GetTranslation(words, category)
+    df2 = translate_helper.GetTranslation(words_lower, category)
+    logging.info ("Translation retrieved successfully")
+    df3 = pd.concat([df1, df2]).sort_index()
+    save_to_excel(df3, translator_settings.output_excel_file)
+    logging.info ("Output file created at [{0}]".format(translator_settings.output_excel_file))
+  else:
+    logging.error ("One or more required packages does not exist. Use run_first.bat to install")
   logging.info ("Finished translate-helper")
   logging.info ("-" * 30)
 
