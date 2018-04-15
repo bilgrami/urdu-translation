@@ -41,4 +41,4 @@ class BingTranslatorHelper(BaseTranslator):
     pass 
   
   def PrintSettings(self):
-    logging.info ("[%s] Settings " % self.name)
+    pass

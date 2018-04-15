@@ -64,7 +64,7 @@ def main():
   df = translate_helper.GetTranslation(words)
   logging.info("Translation retrieved successfully")
 
-  exporter.save_to_json(df, ts.output_file)
+  exporter.export(df, ts.output_file)
   logging.info("Output file created at [{0}]".format(ts.output_file))
 
   logging.info("Finished translate-helper")
