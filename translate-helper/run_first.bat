@@ -1,3 +1,1 @@
-pip install googletrans
-pip install pandas
-pip install Openpyxl
+pip install -r requirements.txt

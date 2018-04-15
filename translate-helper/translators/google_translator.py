@@ -1,6 +1,8 @@
-from base_translator import BaseTranslator
-from googletrans import Translator as GoogleTranslator
 import logging
+
+from googletrans import Translator as GoogleTranslator
+
+from base_translator import BaseTranslator
 
 
 class GoogleTranslatorHelper(BaseTranslator):

@@ -4,10 +4,10 @@ Visit http://docs.microsofttranslator.com/oauth-token.html to view the API refer
 for Microsoft Azure Cognitive Services authentication service.
 """
 
-from datetime import timedelta
-from datetime import datetime
+from datetime import datetime, timedelta
 
 import requests
+
 
 class AzureAuthClient(object):
     """

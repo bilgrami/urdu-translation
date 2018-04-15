@@ -28,4 +28,3 @@ class BaseTranslator:
   @abstractmethod
   def PrintSettings(self):
     pass 
-    

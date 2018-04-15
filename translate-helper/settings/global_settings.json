@@ -1,0 +1,17 @@
+{
+"translators" : [
+  {
+    "name": "Bing",
+    "module_name" : "translators.bing_translator",
+    "class_name" : "BingTranslatorHelper",
+    "microsoft_translator_client_secret" : "221ad4ad58d04ad0b7b13765b78b1e8e",
+    "enabled" : true
+  },
+  {
+    "name" : "Google",
+    "module_name" : "translators.google_translator",
+    "class_name" : "GoogleTranslatorHelper",
+    "enabled" : true
+  }
+]
+}

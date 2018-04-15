@@ -1,12 +1,13 @@
-import sys
 import logging
+import sys
+from xml.etree import ElementTree
 
 import pandas as pd
 import requests
+
 import settings
-from xml.etree import ElementTree
-from base_translator import BaseTranslator
 from auth import AzureAuthClient
+from base_translator import BaseTranslator
 
 
 class BingTranslatorHelper(BaseTranslator):
@@ -40,6 +41,4 @@ class BingTranslatorHelper(BaseTranslator):
     pass 
   
   def PrintSettings(self):
-    logging.info ("[%s] Settings %s" % self.name)
-    logging.info ("    microsoft_translator_client_secret: %s" % self.microsoft_translator_client_secret)
-    
+    logging.info ("[%s] Settings " % self.name)

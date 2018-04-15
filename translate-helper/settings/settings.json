@@ -1,0 +1,6 @@
+{
+  "source_language" : "en",
+  "target_language" : "ur",
+  "word_list_file" : "data/input_data_small.csv",
+  "output_file" : "data/output_data_small.json"
+}
