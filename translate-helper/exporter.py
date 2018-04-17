@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
-import pandas as pd
 import os.path
+
+import pandas as pd
 
 _CHARACTOR_ENCODING = "utf-8"
 def _save_to_excel(df, file_name):
@@ -23,4 +24,3 @@ def export(df, file_name):
     _save_to_json(df, file_name) 
   elif extension == 'xls':
     _save_to_excel(df, file_name) 
-    

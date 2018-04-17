@@ -22,7 +22,7 @@ class TranslateHelper(object):
     self.target_language = target_language
     self.translator_settings = translator_settings
     self.translators = []
-      
+  
   def SetupTranslators(self):
     for ts in self.translator_settings:
       if ts.enabled:

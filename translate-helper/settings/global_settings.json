@@ -12,6 +12,12 @@
     "module_name" : "translators.google_translator",
     "class_name" : "GoogleTranslatorHelper",
     "enabled" : true
+  },
+  {
+    "name" : "HamariWeb",
+    "module_name" : "translators.hamariweb_translator",
+    "class_name" : "HamariWebTranslatorHelper",
+    "enabled" : true
   }
 ]
 }

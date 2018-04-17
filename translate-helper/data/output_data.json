@@ -1,0 +1,812 @@
+[
+   {
+      "Word":"Watermelon",
+      "Bing":"واٹرمیلاون",
+      "Google":"تربوز",
+      "HamariWeb":"تربوز"
+   },
+   {
+      "Word":"Plum",
+      "Bing":"بیر",
+      "Google":"گم",
+      "HamariWeb":"آلوبخارا"
+   },
+   {
+      "Word":"Persimmon",
+      "Bing":"پرساماون",
+      "Google":"فاریمن",
+      "HamariWeb":"جپانی پھل"
+   },
+   {
+      "Word":"Guava",
+      "Bing":"گواوا",
+      "Google":"گووا",
+      "HamariWeb":"امرود"
+   },
+   {
+      "Word":"Papaya",
+      "Bing":"پپیتے",
+      "Google":"پاپا",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Apple",
+      "Bing":"ایپل",
+      "Google":"سیب",
+      "HamariWeb":"سیب"
+   },
+   {
+      "Word":"Cherry",
+      "Bing":"آلو بالو",
+      "Google":"چیری",
+      "HamariWeb":"شاہ دانہ"
+   },
+   {
+      "Word":"Mangoes",
+      "Bing":"آم کے چھلکے کو",
+      "Google":"Mangoes",
+      "HamariWeb":"آم"
+   },
+   {
+      "Word":"Apricot",
+      "Bing":"خوبانی",
+      "Google":"خوبانی",
+      "HamariWeb":"خوبانی"
+   },
+   {
+      "Word":"Avocado",
+      "Bing":"آلسپاﺋیس",
+      "Google":"Avocado",
+      "HamariWeb":"مگر ناشپاتی"
+   },
+   {
+      "Word":"Banana",
+      "Bing":"کیلا",
+      "Google":"کیلا",
+      "HamariWeb":"کیلا"
+   },
+   {
+      "Word":"Bilberry",
+      "Bing":"بالبرری",
+      "Google":"بلبیری",
+      "HamariWeb":"بلبيری "
+   },
+   {
+      "Word":"Blackberry",
+      "Bing":"بلیک بیری",
+      "Google":"بلیک بیری",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Blackcurrant",
+      "Bing":"بلہککوررانٹ",
+      "Google":"بلیک سنچرٹ",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Blueberry",
+      "Bing":"بلوبیری",
+      "Google":"بلیو بیری",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Currant",
+      "Bing":"مویز",
+      "Google":"Currant",
+      "HamariWeb":"کشمش"
+   },
+   {
+      "Word":"Cherimoya",
+      "Bing":"چریمویا",
+      "Google":"چیریمیا",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Chico fruit",
+      "Bing":"کہاکا پھل",
+      "Google":"Chico پھل",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Cloudberry",
+      "Bing":"کلودبیری",
+      "Google":"Cloudberry",
+      "HamariWeb":"ایک پہاڑی جھاڑی"
+   },
+   {
+      "Word":"Coconut",
+      "Bing":"ناریل",
+      "Google":"ناریل",
+      "HamariWeb":"ناریل"
+   },
+   {
+      "Word":"Cranberry",
+      "Bing":"کرینبیری",
+      "Google":"کرینبیری",
+      "HamariWeb":"کروندا"
+   },
+   {
+      "Word":"Cucumber",
+      "Bing":"کھیرا",
+      "Google":"کھیرا",
+      "HamariWeb":"کھیرا"
+   },
+   {
+      "Word":"Custard apple",
+      "Bing":"کسٹرڈ ایپل",
+      "Google":"کیسٹارڈ سیب",
+      "HamariWeb":"اتا"
+   },
+   {
+      "Word":"Damson",
+      "Bing":"اجاس",
+      "Google":"ڈیمنسن",
+      "HamariWeb":"آلو بخارا"
+   },
+   {
+      "Word":"Date",
+      "Bing":"تاریخ",
+      "Google":"تاریخ",
+      "HamariWeb":"کھجور"
+   },
+   {
+      "Word":"Dragonfruit",
+      "Bing":"ڈراگونفرواٹ",
+      "Google":"ڈریگن پھل",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Durian",
+      "Bing":"دیا",
+      "Google":"Durian",
+      "HamariWeb":"لذیذ میوہ"
+   },
+   {
+      "Word":"Fig",
+      "Bing":"انجیر",
+      "Google":"انجیر",
+      "HamariWeb":"انجیر"
+   },
+   {
+      "Word":"Goji berry",
+      "Bing":"گاوجا بیری",
+      "Google":"Goji بیری",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Gooseberry",
+      "Bing":"گوسیبیری",
+      "Google":"گوزیریب",
+      "HamariWeb":"فَرَنگی انگور "
+   },
+   {
+      "Word":"Grape",
+      "Bing":"انگور",
+      "Google":"انگور",
+      "HamariWeb":"انگور"
+   },
+   {
+      "Word":"Raisin",
+      "Bing":"انگور",
+      "Google":"ریزن",
+      "HamariWeb":"کشمش"
+   },
+   {
+      "Word":"Grapefruit",
+      "Bing":"چکوترا",
+      "Google":"انگور",
+      "HamariWeb":"چکوترہ"
+   },
+   {
+      "Word":"Honeyberry",
+      "Bing":"ہونییبرری",
+      "Google":"ہنییری",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Huckleberry",
+      "Bing":"ہوککلیبیری",
+      "Google":"Huckleberry",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Jabuticaba",
+      "Bing":"جابوٹاکیبا",
+      "Google":"جتوکبا",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Jackfruit",
+      "Bing":"کٹھل",
+      "Google":"جیکفیو",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Jambul",
+      "Bing":"بوننیٹ",
+      "Google":"جمبو",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Jujube",
+      "Bing":"جوجوبی",
+      "Google":"Jujube",
+      "HamariWeb":"عناب"
+   },
+   {
+      "Word":"Juniper berry",
+      "Bing":"صنوبر بیری",
+      "Google":"جونیئر بیری",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Kiwano",
+      "Bing":"کاوانو",
+      "Google":"کیووان",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Kiwifruit",
+      "Bing":"کوفرواٹ",
+      "Google":"کییوفیٹ",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Kumquat",
+      "Bing":"کومقوت",
+      "Google":"کوکٹیٹ",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Lemon",
+      "Bing":"لیموں",
+      "Google":"نیبو",
+      "HamariWeb":"لیموں"
+   },
+   {
+      "Word":"Lime",
+      "Bing":"چونے",
+      "Google":"لیموں",
+      "HamariWeb":"چونے کا پتھر"
+   },
+   {
+      "Word":"Loquat",
+      "Bing":"لوقوت",
+      "Google":"Loquat",
+      "HamariWeb":"لوکاٹ ایک پھل"
+   },
+   {
+      "Word":"Longan",
+      "Bing":"",
+      "Google":"لانگان",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Lychee",
+      "Bing":"لیچی",
+      "Google":"لیچی",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Mango",
+      "Bing":"آم",
+      "Google":"منگو",
+      "HamariWeb":"آم"
+   },
+   {
+      "Word":"Mangosteen",
+      "Bing":"مانگوسٹیان",
+      "Google":"منگسٹن",
+      "HamariWeb":"منگوسٹين "
+   },
+   {
+      "Word":"Marionberry",
+      "Bing":"ماراونبیری",
+      "Google":"میرینبیری",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Melon",
+      "Bing":"تربوز",
+      "Google":"میلون",
+      "HamariWeb":"خربوزہ"
+   },
+   {
+      "Word":"Cantaloupe",
+      "Bing":"کانتلووپی",
+      "Google":"Cantaloupe",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Honeydew",
+      "Bing":"ہونییڈیو",
+      "Google":"ہونیکیو",
+      "HamariWeb":"پت رس "
+   },
+   {
+      "Word":"Miracle fruit",
+      "Bing":"معجزہ پھل",
+      "Google":"معجزہ پھل",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Mulberry",
+      "Bing":"شہتوت",
+      "Google":"شہزادی",
+      "HamariWeb":"شہتوت"
+   },
+   {
+      "Word":"Nectarine",
+      "Bing":"نیکترانا",
+      "Google":"نیکٹارین",
+      "HamariWeb":"ایک قسم کی شیریں ناخ"
+   },
+   {
+      "Word":"Nance",
+      "Bing":"نانکا",
+      "Google":"نانس",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Olive",
+      "Bing":"زیتون",
+      "Google":"زیتون",
+      "HamariWeb":"زیتون"
+   },
+   {
+      "Word":"Orange",
+      "Bing":"نارنگی",
+      "Google":"اورنج",
+      "HamariWeb":"۔نارنجی رنگ"
+   },
+   {
+      "Word":"Blood orange",
+      "Bing":"خون اورنج",
+      "Google":"خون سنتری",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Clementine",
+      "Bing":"کلے من ٹائن",
+      "Google":"Clementine",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Mandarine",
+      "Bing":"تنگرینی",
+      "Google":"مینڈارین",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Tangerine",
+      "Bing":"تنگرینی",
+      "Google":"Tangerine",
+      "HamariWeb":"طنجہ کا باشندہ"
+   },
+   {
+      "Word":"Passionfruit",
+      "Bing":"پاساونفرواٹ",
+      "Google":"جذبہ پھل",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Peach",
+      "Bing":"آڑو",
+      "Google":"پیچ",
+      "HamariWeb":"آڑو"
+   },
+   {
+      "Word":"Pear",
+      "Bing":"ناشپاتیاں",
+      "Google":"ناشپاتی",
+      "HamariWeb":"ناشپاتی"
+   },
+   {
+      "Word":"Plantain",
+      "Bing":"کیلا",
+      "Google":"Plantain",
+      "HamariWeb":"تُخم سفید"
+   },
+   {
+      "Word":"Prune (dried plum)",
+      "Bing":"Prune (پلام خشک)",
+      "Google":"پروون (خشک پلم)",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Pineapple",
+      "Bing":"انناس",
+      "Google":"انناس",
+      "HamariWeb":"انناس "
+   },
+   {
+      "Word":"Plumcot (or Pluot)",
+      "Bing":"پلومکوٹ (یا پلووٹ)",
+      "Google":"پلاومک (یا پلاٹ)",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Pomegranate",
+      "Bing":"انار",
+      "Google":"انار",
+      "HamariWeb":"انار "
+   },
+   {
+      "Word":"Pomelo",
+      "Bing":"پومالو",
+      "Google":"Pomelo",
+      "HamariWeb":"چکوترا "
+   },
+   {
+      "Word":"Purple mangosteen",
+      "Bing":"جامنی رنگ مانگوسٹیان",
+      "Google":"جامنی مینگسٹنین",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Quince",
+      "Bing":"پندرہ برس",
+      "Google":"کوئز",
+      "HamariWeb":"بہی کا درخت"
+   },
+   {
+      "Word":"Raspberry",
+      "Bing":"تُوت الارض",
+      "Google":"راسبیری",
+      "HamariWeb":"رس بھری"
+   },
+   {
+      "Word":"Salmonberry",
+      "Bing":"سلمونبرری",
+      "Google":"سالمیری",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Rambutan",
+      "Bing":"رامبطن",
+      "Google":"Rambutan",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Redcurrant",
+      "Bing":"رادکوررانٹ",
+      "Google":"ریفریجریٹر",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Salal berry",
+      "Bing":"سالال بیری",
+      "Google":"سیلال بیری",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Salak",
+      "Bing":"سالاک",
+      "Google":"سلام",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Satsuma",
+      "Bing":"سیتسوما",
+      "Google":"Satsuma",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Soursop",
+      "Bing":"سوورسوپ",
+      "Google":"سورسپ",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Star fruit",
+      "Bing":"سٹار پھل",
+      "Google":"ستارہ پھل",
+      "HamariWeb":""
+   },
+   {
+      "Word":"gonzoberry",
+      "Bing":"گونزوبیری",
+      "Google":"گونزوالری",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Strawberry",
+      "Bing":"اسٹرابیری",
+      "Google":"اسٹرابیری",
+      "HamariWeb":"ایک پھل"
+   },
+   {
+      "Word":"Tamarillo",
+      "Bing":"تمآرالو",
+      "Google":"تماریلو",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Tamarind",
+      "Bing":"تمآراند",
+      "Google":"تمنند",
+      "HamariWeb":"املی"
+   },
+   {
+      "Word":"Ugli fruit",
+      "Bing":"یوگلی پھل",
+      "Google":"یوگلی پھل",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Yuzu",
+      "Bing":"یُوزُو",
+      "Google":"یوزو",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Avocado",
+      "Bing":"آلسپاﺋیس",
+      "Google":"Avocado",
+      "HamariWeb":"مگر ناشپاتی"
+   },
+   {
+      "Word":"Chili pepper",
+      "Bing":"مرچ مرچ",
+      "Google":"مرچ مرچ",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Corn kernel",
+      "Bing":"مکئی کرنل",
+      "Google":"کارن کنی",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Cucumber",
+      "Bing":"کھیرا",
+      "Google":"کھیرا",
+      "HamariWeb":"کھیرا"
+   },
+   {
+      "Word":"Eggplant",
+      "Bing":"بینگن",
+      "Google":"بینگن",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Olive",
+      "Bing":"زیتون",
+      "Google":"زیتون",
+      "HamariWeb":"زیتون"
+   },
+   {
+      "Word":"Pea",
+      "Bing":"سر کرنا",
+      "Google":"پی",
+      "HamariWeb":"مٹر کا پودا"
+   },
+   {
+      "Word":"Pumpkin",
+      "Bing":"لوکی",
+      "Google":"قددو",
+      "HamariWeb":"کدو"
+   },
+   {
+      "Word":"Squash",
+      "Bing":"اسکواش",
+      "Google":"اسکواش",
+      "HamariWeb":"پچکا دینا"
+   },
+   {
+      "Word":"Tomato",
+      "Bing":"ٹماٹر",
+      "Google":"ٹماٹر",
+      "HamariWeb":"ٹماٹر"
+   },
+   {
+      "Word":"Asparagus",
+      "Bing":"مارچوبہ",
+      "Google":"Asparagus",
+      "HamariWeb":"مارچوب"
+   },
+   {
+      "Word":"Beans",
+      "Bing":"پھلیاں",
+      "Google":"پھلیاں",
+      "HamariWeb":"لوبیا"
+   },
+   {
+      "Word":"Beetroot",
+      "Bing":"بیٹرووٹ",
+      "Google":"چقندر",
+      "HamariWeb":"چقندر"
+   },
+   {
+      "Word":"Broccoli",
+      "Bing":"شاخ گوبھی",
+      "Google":"بروکولی",
+      "HamariWeb":"شاخ گوبھی"
+   },
+   {
+      "Word":"Cabbages",
+      "Bing":"بند گوبھی",
+      "Google":"کیببس",
+      "HamariWeb":"گوبی"
+   },
+   {
+      "Word":"Capsicums",
+      "Bing":"شملہ مرچ",
+      "Google":"کیپسک",
+      "HamariWeb":"شملہ مرچ"
+   },
+   {
+      "Word":"Carrots",
+      "Bing":"گاجر",
+      "Google":"گاجر",
+      "HamariWeb":"گاجر"
+   },
+   {
+      "Word":"Cauliflower",
+      "Bing":"گوبھی",
+      "Google":"طول و عرض",
+      "HamariWeb":"پھول گوبھی"
+   },
+   {
+      "Word":"Celery",
+      "Bing":"اجمود",
+      "Google":"سیلری",
+      "HamariWeb":"اجوائن"
+   },
+   {
+      "Word":"Chili peppers",
+      "Bing":"مرچ مرچ",
+      "Google":"مرچ مرچ",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Cucumber",
+      "Bing":"کھیرا",
+      "Google":"کھیرا",
+      "HamariWeb":"کھیرا"
+   },
+   {
+      "Word":"Eggplant",
+      "Bing":"بینگن",
+      "Google":"بینگن",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Garlic",
+      "Bing":"لہسن",
+      "Google":"لہسن",
+      "HamariWeb":"لہسن"
+   },
+   {
+      "Word":"Ginger",
+      "Bing":"ادرک",
+      "Google":"ادرک",
+      "HamariWeb":"ادرک"
+   },
+   {
+      "Word":"white gourd",
+      "Bing":"سفید لوکی",
+      "Google":"سفید لوکی",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Ribbed gourd",
+      "Bing":"رابباد لوکی",
+      "Google":"ردی ہوئی پیتل",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Bitter melon",
+      "Bing":"کریلا",
+      "Google":"کڑوا خربوزہ",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Lettuce",
+      "Bing":"کاہو کے پتّے",
+      "Google":"لاپتہ",
+      "HamariWeb":"سلاد پتہ"
+   },
+   {
+      "Word":"Mushrooms",
+      "Bing":"مشروم",
+      "Google":"کھمبی",
+      "HamariWeb":"کھمبی"
+   },
+   {
+      "Word":"Okra",
+      "Bing":"اوکرا",
+      "Google":"اوکرا",
+      "HamariWeb":"بھنڈی"
+   },
+   {
+      "Word":"Onion",
+      "Bing":"پیاز",
+      "Google":"پیاز",
+      "HamariWeb":"پیاز"
+   },
+   {
+      "Word":"Peas",
+      "Bing":"مٹر",
+      "Google":"مٹر",
+      "HamariWeb":"مٹر کا پودا"
+   },
+   {
+      "Word":"Potatoes",
+      "Bing":"آلو",
+      "Google":"آلو",
+      "HamariWeb":"آلو"
+   },
+   {
+      "Word":"Pumpkins",
+      "Bing":"کدو",
+      "Google":"کدو",
+      "HamariWeb":"کدو"
+   },
+   {
+      "Word":"Radish",
+      "Bing":"لال مولی",
+      "Google":"راشد",
+      "HamariWeb":"مولی"
+   },
+   {
+      "Word":"Rhubarb",
+      "Bing":"ریوند چینی",
+      "Google":"تالاب",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Shallots",
+      "Bing":"شاللوٹ",
+      "Google":"Shallots",
+      "HamariWeb":"خاندان سوسن کا ایک پودا"
+   },
+   {
+      "Word":"Spinach",
+      "Bing":"پالک",
+      "Google":"پالنا",
+      "HamariWeb":"پالک"
+   },
+   {
+      "Word":"Spring onions",
+      "Bing":"موسم بہار میں پیاز",
+      "Google":"بہار پیاز",
+      "HamariWeb":"ہری پیاز"
+   },
+   {
+      "Word":"Squash (plant)",
+      "Bing":"اسکواش (درخت)",
+      "Google":"اسکواش (پودے)",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Sweet corn",
+      "Bing":"مکئی",
+      "Google":"میٹھی مکئی",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Taro",
+      "Bing":"ماتسو بارا کو کاروائى",
+      "Google":"ٹورو",
+      "HamariWeb":""
+   },
+   {
+      "Word":"Tomatoes",
+      "Bing":"ٹماٹر",
+      "Google":"ٹماٹر",
+      "HamariWeb":"ٹماٹر"
+   },
+   {
+      "Word":"Turnip",
+      "Bing":"شلغم",
+      "Google":"ٹرنپ",
+      "HamariWeb":"شلجم"
+   },
+   {
+      "Word":"Chard",
+      "Bing":"کہآرد",
+      "Google":"چارڈ",
+      "HamariWeb":"سفید چقندر"
+   }
+]
