@@ -8,6 +8,7 @@ Input Word list is provided in CSV format, and output translation is returned in
 ----
 1. Google Translator
 2. Bing Translator
+3. HamwariWeb Online dictionary (http://hamariweb.com/dictionaries)
 
 ## Setup Instructions
 ----
@@ -55,6 +56,7 @@ Check ./data folder for the output file as specified in "output_file" parameter 
 ### Add more Urdu Translation sources 
 
 We plan to add support for following translation sources 
-
-1. Urdu Dictionary Board of Pakistan(http://udb.gov.pk)
-2. HamwariWeb Online dictionary (http://hamariweb.com/dictionaries)
+1. [Urdu Dictionary Board of Pakistan](http://udb.gov.pk) (Urdu)
+2. Amazon Translator (Arabic, Simplified Chinese, French, German, Spanish, and Portuguese)
+3. [English & Bengali Online Dictionary](http://www.english-bangla.com)
+4. [hindhi & English online dictionary](http://hindi-english.org)
